@@ -1,1 +1,1 @@
-![Preview do Projeto](./NEXXXXXXXXXT.webp)
+![Preview do Projeto](./imgnext.webp)
