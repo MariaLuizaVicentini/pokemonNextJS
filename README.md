@@ -88,3 +88,9 @@ Para criar o arquivo .env, execute:
 npm run setup-env
 ```
 Após isso, revise o arquivo .env e preencha as variáveis necessárias conforme o ambiente.
+
+----
+
+Video aula:
+
+Link 
