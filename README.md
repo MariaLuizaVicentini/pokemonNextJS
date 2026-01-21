@@ -93,4 +93,5 @@ Após isso, revise o arquivo .env e preencha as variáveis necessárias conforme
 
 Video aula:
 
-Link 
+Link:
+https://www.youtube.com/watch?v=iWpLD2wTsZ4&list=PLnDvRpP8BnezfJcfiClWskFOLODeqI_Ft&index=13
