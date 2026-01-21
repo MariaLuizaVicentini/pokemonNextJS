@@ -1,5 +1,5 @@
-import "@/styles/globals.css";
-import MainContainer from "@/components/MainContainer";
+import "@/styles/globals.css"
+import MainContainer from "@/components/MainContainer"
 
 function MyApp({ Component, pageProps }) {
   return (

@@ -91,6 +91,30 @@ Após isso, revise o arquivo .env e preencha as variáveis necessárias conforme
 
 ----
 
+
+# Config essencial pra auxiliar o desenvolvimento com react e NextJS
+
+Abra as configurações apertando: 
+```bash
+Ctrl + Shift + P
+```
+
+Digite: Preferences: Open Settings (JSON)
+
+Cole isso:
+
+```bash
+{
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  }
+}
+```
+
+
+---
+
 Video aula:
 
 Link:
