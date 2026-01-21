@@ -11,6 +11,12 @@ export default function NavBar() {
             </li>
 
             <li>
+                <Link href="/todos" legacyBehavior>
+                    <a>Todos</a>
+                </Link>
+            </li>
+
+            <li>
                 <Link href="/products" legacyBehavior>
                     <a>Produtos</a>
                 </Link>
